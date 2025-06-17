@@ -7,7 +7,8 @@
 - Aided my co-researchers in maintaining seamless remote control of hardware through accessing it in the developed Django-based website made by my co-researchers.
 
 ## Constructed Prototype 
-<img src="https://github.com/leantdr04/arduino-thesis-repo/blob/main/physics%20experiment%20apparatus.png" width="500" height="500"/>
+<img src="https://github.com/leantdr04/arduino-thesis-repo/blob/main/physics%20experiment%20apparatus.png" width="500" height="500"/> <img src="https://github.com/leantdr04/arduino-thesis-repo/blob/main/Apparatus%20setup.png" width="300" height="300"/>
+
 Each hardware is separately powered by its own Arduino Microcontroller, Nema Stepper motor, needed motor drivers and modules, and arduino sensors.
 
 
